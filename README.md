@@ -1,6 +1,6 @@
 [![MasterHead](https://www.iakademi.com/wp-content/uploads/2021/05/kodlama-yapabilmek-icin-gerekli-programlama-dilleri.png)
 <h1 align="center">Hi 👋, I'm Esma</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
+<h3 align="center">A passionate FullStack developer from Türkiye</h3>
 
 - 🌱 I’m currently learning **Swift**
 
